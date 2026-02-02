@@ -1,4 +1,4 @@
-name = "spring"
+name = "worker-icy-art-348a"
 main = "index.js"
 compatibility_date = "2025-11-09"
 workers_dev = true
@@ -20,5 +20,4 @@ PROXYIP = "nima.nscl.ir"
 # [[rules]]
 # type = "ESModule"
 # globs = ["**/*.js"]
-# wrangler.toml
-name = 'worker-icy-art-348a'
+
